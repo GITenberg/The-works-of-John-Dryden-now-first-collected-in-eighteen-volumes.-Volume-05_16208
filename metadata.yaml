@@ -1,0 +1,40 @@
+_repo: The-works-of-John-Dryden-now-first-collected-in-eighteen-volumes.-Volume-05_16208
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dryden, John
+    birthdate: 1631
+    deathdate: 1700
+    gutenberg_agent_id: '807'
+    url: http://www.gutenberg.org/2009/agents/807
+    wikipedia: http://en.wikipedia.org/wiki/John_Dryden
+  editor:
+    agent_name: Scott, Walter
+    aliases:
+    - Cleishbotham, Jedediah
+    - Malagrowther, Malachi
+    - Scott, Sir Walter
+    - Templeton, Laurence
+    birthdate: 1771
+    deathdate: 1832
+    gutenberg_agent_id: '59'
+    url: http://www.gutenberg.org/2009/agents/59
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
+description: ''
+gutenberg_issued: '2005-07-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16208'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English literature'
+tableOfContents: Amboyna -- The state of Innocence -- Aureng-Zebe -- All for Love.
+title: The Works of John Dryden, now first collected in eighteen volumes. Volume 05
+url: http://www.gutenberg.org/ebooks/16208
